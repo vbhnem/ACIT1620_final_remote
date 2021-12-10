@@ -29,6 +29,7 @@
   --formInput:      var(--white);
 }
 
+/*dark theme*/
 .dark-theme {
   --navBg:          var(--darkGreen);
   --navLinkHoverBg: var(--black);
